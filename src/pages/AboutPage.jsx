@@ -1,9 +1,9 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import { Card, CardContent } from '@/components/ui/card';
-import Header from '@/components/Header.jsx';
-import Footer from '@/components/Footer.jsx';
-import SkillBadge from '@/components/SkillBadge.jsx';
+import { Card, CardContent } from '../components/ui/card';
+import Header from '../components/Header.jsx';
+import Footer from '../components/Footer.jsx';
+import SkillBadge from '../components/SkillBadge.jsx';
 import { motion } from 'framer-motion';
 import { CheckCircle2, GraduationCap, Cloud, Server, Network, Database, Shield } from 'lucide-react';
 

@@ -1,7 +1,7 @@
 import React from 'react';
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from './ui/card';
 import { ArrowUpRight } from 'lucide-react';
-import SkillBadge from '@/components/SkillBadge.jsx';
+import SkillBadge from './SkillBadge.jsx';
 import { motion } from 'framer-motion';
 
 const ProjectCard = ({ project, index }) => {

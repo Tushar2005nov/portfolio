@@ -1,8 +1,8 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import Header from '@/components/Header.jsx';
-import Footer from '@/components/Footer.jsx';
-import ProjectCard from '@/components/ProjectCard.jsx';
+import Header from '../components/Header.jsx';
+import Footer from '../components/Footer.jsx';
+import ProjectCard from '../components/ProjectCard.jsx';
 import { motion } from 'framer-motion';
 
 const PortfolioPage = () => {

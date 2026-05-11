@@ -5,15 +5,15 @@
   "homepage": "https://Tushar2005nov.github.io/portfolio",
   "private": true,
   "scripts": {
-  "dev": "vite --host :: --port 3000",
-  "build": "vite build",
-  "start": "vite preview",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
-  "lint": "eslint . --quiet",
-  "lint:warn": "eslint ."
-},
+    "dev": "vite --host :: --port 3000",
+    "build": "vite build",
+    "start": "vite preview",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "lint": "eslint . --quiet",
+    "lint:warn": "eslint ."
+  },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
     "@radix-ui/react-accordion": "^1.2.12",
@@ -81,7 +81,7 @@
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.1.0",
-    "gh-pages": "^6.3.0",
+    "gh-pages": "^6.1.1",
     "globals": "^15.14.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",

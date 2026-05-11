@@ -1,8 +1,8 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
-import Header from '@/components/Header.jsx';
-import Footer from '@/components/Footer.jsx';
-import ServiceCard from '@/components/ServiceCard.jsx';
+import Header from '../components/Header.jsx';
+import Footer from '../components/Footer.jsx';
+import ServiceCard from '../components/ServiceCard.jsx';
 import { motion } from 'framer-motion';
 import { Cloud, Server, Wifi, Network, Activity, Shield } from 'lucide-react';
 
